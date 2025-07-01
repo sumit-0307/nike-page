@@ -20,7 +20,8 @@ const Hero = () => {
       style={{paddingTop: '7rem'}}>
         <p className="text-xl font-montserrat text-coral-red"
         >Our Summer Collections</p>
-        <h1 className="font-palanquin text-8xl max-sm:text-[72px] max-sm:leading-[82] font-bold"
+
+        <h1 className="font-palanquin text-8xl max-sm:text-[72px] max-sm:leading-[6rem] font-bold"
         style={{ marginTop: '2.5rem' }}>
           <span className="xl:bg-white xl:whitespace-nowrap relative z-10"
           style={{ paddingRight: '2.5rem' }}
@@ -30,6 +31,7 @@ const Hero = () => {
           style={{ marginTop: '1.25rem' }}
           >Nike</span> Shoes
         </h1>
+
         <p className="font-montserrat text-slate-gray text-lg leading-8 sm:max-w-sm"
         style={{marginTop: '1.5rem', marginBottom: '3.5rem' }} 
         >Discover stylish Nike arrivals, quality comfort, and innovation for your active life.</p>
@@ -60,8 +62,8 @@ const Hero = () => {
             className="object-contain relative z-10"
             // style={{paddingTop: '7rem'}}
             />
-            <div className="flex sm:gap-6 gap-4 absolute -bottom-[5%] sm:left-[10%]
-            max-sm:padding-x"
+            <div className="flex sm:gap-6 gap-4 sm:-bottom-[5%]  absolute -bottom-[5%] sm:left-[10%]
+            max-sm:padding-x shoe-thumbnails "
             style={{
               bottom: '-5%',
             }}>

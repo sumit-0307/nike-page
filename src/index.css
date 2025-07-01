@@ -70,6 +70,17 @@
 }
 
 @media (min-width: 640px) {
+  .shoe-thumbnails {
+    position: absolute;
+    bottom: -5%;
+    left: 10%;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 640px) {
   .custom-style {
     left: 10%;
   }
