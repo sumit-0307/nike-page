@@ -1,12 +1,14 @@
-# React + Vite
+# Hemlo Guys
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Nike Landing Page 🏀
 
-Currently, two official plugins are available:
+This is a simple and modern Nike landing page I built using **React** and **Tailwind CSS**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The page features a clean design, responsive layout(partially, cuz idk how tf tailwind's new version 4.0 works and had problems while creating custom utilities so had to use style formats directly inline within the code in some places) and showcases Nike products with a smooth user interface.
 
-## Expanding the ESLint configuration
+Designed as a front-end practice project to improve skills in modern UI development (Also cuz I was bored asf so might as well try some new tailwind skills)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Live Demo
+
+[Nike](https://nike-page-izumi.vercel.app) 
+---
